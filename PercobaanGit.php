@@ -1,6 +1,6 @@
 <!DOCTYPE html>
     <head>
-     <title> HOTEL BINTANG 7 </title>
+     <title> PKL DISKOMINFO </title>
     </head>
 
   </html>
