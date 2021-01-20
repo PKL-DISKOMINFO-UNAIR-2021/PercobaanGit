@@ -197,7 +197,7 @@
 }
 </style>
   <div class="button-center">
-  <a class="button" href="/login" >Booking Hotel</a>
+  <a class="button" href="/login" >Booking Penginapans</a>
   </div>
   <br>
   <br>
